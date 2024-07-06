@@ -1,4 +1,4 @@
-# simple_stream_dab_radio.sh
+# stream_dab_radio.sh
 
 A simple script to stream DAB radio using Icecast2, DarkIce, Screen and Welle-cli.
 
